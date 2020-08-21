@@ -1,0 +1,2 @@
+C:\Users\Austin\source\repos\CalculatorTutorial\Debug\CalculatorTutorial.exe
+C:\Users\Austin\source\repos\CalculatorTutorial\Debug\CalculatorTutorial.pdb
